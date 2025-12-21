@@ -28,7 +28,7 @@ Here are the system diagrams of counter flow and parallel flow:
 
 The following data was collected
 
-|Low/High Flow     :|Counter/Parallel Flow     :| Hot Temp in    :| Cold Temp in     :| Hot temp out    :| Cold temp out    :|
+|Low/High Flow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Counter/Parallel Flow  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Hot Temp in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Cold Temp in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Hot temp out &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Cold temp out &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |---|---|---|---|---|---|
 |Low|Counter|35.0C|11.6C|18.6C|23.3C|
 |Low|Parallel|35.0C|11.3C|26.3C|22.3C|
@@ -47,7 +47,7 @@ This means delta U = delta H = C delta T, where C is the specific heat of 4.18 k
 
 Pluging in the final and initial temperatures we find
 
-|Flow    :|Hot    :|Cold   :|Average energy transfer      :|
+|Flow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Hot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Cold &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Average energy transfer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |---|---|---|---|
 |Low Counter Flow|-68.6kJ/kg|69.8kJ/kg|69.2kJ/kg|
 |Low Parallel Flow|-36.4kJ/kg|46.0kJ/kg|41.2kJ/kg|
