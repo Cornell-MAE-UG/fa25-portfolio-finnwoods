@@ -1,6 +1,6 @@
 ---
 layout: default
-title: finn woods - CV
+title: Finn Woods - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: finn woods - Portfolio
+title: Finn Woods - Portfolio
 permalink: /projects/
 ---
 

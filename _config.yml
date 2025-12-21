@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : Finn Woods Portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : finn woods
-description              : finn woods - Projects and CV 
+name                     : Finn Woods
+description              : Finn Woods - Projects and CV 
 baseurl                  : "/fa25-portfolio-finnwoods" # Set this to your repo name 
 
 # Theme and Style
