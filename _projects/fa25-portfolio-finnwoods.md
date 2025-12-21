@@ -12,12 +12,16 @@ For this project I analysed the input and output temperatures of a heat exchange
 
 The Experiment setup included one heat exchanger, two pumps, and four tubs (one with hot water warmed by an immersion heater and one insulated containing cold water). In each trial a flow rate was chosen for both of the pumps (fast or slow) and they were attached to the heat exchanger in parallel flow or in counter flow. 
 
+
+![Heat Exchanger](/assets/images/HE-lab-header.png)
 ({{ "/assets/images/HE-lab-header.png" | relative_url }}){: .inline-image-l}
 
 Here are the system diagrams of counter flow and parallel flow:
 
+![Counter Flow](/assets/images/Counter-Flow.png)
 ({{ "/assets/images/Counter-Flow.png" | relative_url }}){: .inline-image-l}
 
+![Parallel Flow](/assets/images/Parallel-Flow.png)
 ({{ "/assets/images/Parallel-Flow.png" | relative_url }}){: .inline-image-l}
 
 
@@ -25,12 +29,13 @@ Analysis:
 
 The following data was collected
 
-|Low/High Flow|Counter/Parallel Flow| Hot Temp in | Cold Temp in | Hot temp out | Cold temp out |
+|Low/High Flow     |Counter/Parallel Flow     | Hot Temp in    | Cold Temp in     | Hot temp out    | Cold temp out    |
 |---|---|---|---|---|---|
 |Low|Counter|35.0C|11.6C|18.6C|23.3C|
 |Low|Parallel|35.0C|11.3C|26.3C|22.3C|
 |High|Counter|35.5C|11.0C|22.5C|24.5C|
 |High|Parallel|36.0C|10.0C|24.7C|22.3C|
+
 
 In each experiment it was difficult to make sure that the initial hot temperature and the initial cold temperature were the exact same every time, however, I tried to make sure the difference in temperature between the two sources stayed at about 25 degrees celsius. 
 
@@ -43,7 +48,7 @@ This means delta U = delta H = C delta T, where C is the specific heat of 4.18 k
 
 Pluging in the final and initial temperatures we find
 
-|Flow|Hot|Cold|Average energy transfer|
+|Flow    |Hot    |Cold   |Average energy transfer      |
 |---|---|---|---|
 |Low Counter Flow|-68.6kJ/kg|69.8kJ/kg|69.2kJ/kg|
 |Low Parallel Flow|-36.4kJ/kg|46.0kJ/kg|41.2kJ/kg|
