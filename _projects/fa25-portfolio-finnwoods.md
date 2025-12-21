@@ -12,17 +12,13 @@ For this project I analysed the input and output temperatures of a heat exchange
 
 The Experiment setup included one heat exchanger, two pumps, and four tubs (one with hot water warmed by an immersion heater and one insulated containing cold water). In each trial a flow rate was chosen for both of the pumps (fast or slow) and they were attached to the heat exchanger in parallel flow or in counter flow. 
 
-
-![Heat Exchanger](fa25-portfolio-FinnWoods/assets/images/he-lab-heater.png)
-
+!({{ "assets/images/he-lab-heater.png" | relative_url }})
 
 Here are the system diagrams of counter flow and parallel flow:
 
-![Counter Flow](/assets/images/counter-flow.png)
+!({{ "assets/images/counter-flow.png" | relative_url }})
 
-
-![Parallel Flow](/assets/images/parallel-flow.png)
-
+!({{ "assets/images/parallel-flow.png" | relative_url }})
 
 ## Analysis
 
