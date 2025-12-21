@@ -127,20 +127,20 @@ footer {
 }
 
 .inline-image1 {
-  max-width: 350px;
+  max-width: 450px;
   margin: 0px 25px 15px 25px;
   vertical-align: top;
 
   &-l {
     @extend .inline-image1;
     float: left;
-    margin-left: 100px;
+    margin-left: 0;
   }
 
   &-r {
     @extend .inline-image1;
     float: right;
-    margin-right: 100px;
+    margin-right: 0;
   }
 
 }.large-inline-image {

@@ -26,7 +26,7 @@ The Experiment setup included one heat exchanger, two pumps, and four tubs (one 
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+ 
 
 
 Here are the system diagrams of counter flow and parallel flow:  
@@ -41,6 +41,8 @@ Here are the system diagrams of counter flow and parallel flow:
 &nbsp;  
 &nbsp;  
 &nbsp;  
+&nbsp; 
+&nbsp; 
 
 ## Analysis
 
