@@ -6,10 +6,6 @@ technologies:
 image: /assets/images/he-lab-heater.png
 ---
 &nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;   
 
 ## Description
 
@@ -30,6 +26,11 @@ The Experiment setup included one heat exchanger, two pumps, and four tubs (one 
 &nbsp;  
 &nbsp;  
 &nbsp;  
+
+
+
+test
+![Heat Exchanger]({{ "assets/images/he-lab-heater.png" | relative_url }}){: .large-inline-image-l}  
 
 
 Here are the system diagrams of counter flow and parallel flow:  
