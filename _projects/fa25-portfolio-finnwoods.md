@@ -9,7 +9,7 @@ image: /assets/images/he-lab-heater.png
 
 ## Description
 
-For this project I analysed the input and output temperatures of a heat exchanger under different operating conditions. The two operating conditions that I altered were the flow rate through the heat exchanger and whether the heat exchanger was running in counter flow or parallel flow. 
+For this project I analyzed the input and output temperatures of a heat exchanger under different operating conditions. The two operating conditions that I altered were the flow rate through the heat exchanger and whether the heat exchanger was running in counter flow or parallel flow. 
 
 The Experiment setup included one heat exchanger, two pumps, and four tubs (one with hot water warmed by an immersion heater and one insulated containing cold water). In each trial a flow rate was chosen for both of the pumps (fast or slow) and they were attached to the heat exchanger in parallel flow or in counter flow. 
 
@@ -28,16 +28,11 @@ The Experiment setup included one heat exchanger, two pumps, and four tubs (one 
 &nbsp;  
 
 
-
-test
-![Heat Exchanger]({{ "assets/images/he-lab-heater.png" | relative_url }}){: .large-inline-image-l}  
-
-
 Here are the system diagrams of counter flow and parallel flow:  
 
-![Counter Flow]({{ "assets/images/counter.jpg"}}){: .inline-image1-l}  
+![Counter Flow]({{ "assets/images/counter.jpg" | relative_url}}){: .inline-image1-l}  
 
-![Parallel Flow]({{ "parallel.jpg"}}){: .inline-image-r}  
+![Parallel Flow]({{ "parallel.jpg" | relative_url}}){: .inline-image-r}  
 &nbsp;  
 &nbsp;  
 &nbsp;  
