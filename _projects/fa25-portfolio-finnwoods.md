@@ -3,7 +3,7 @@ layout: project
 title: Analysis of a Heat Exchanger
 description: Class project analyzing a heat exchanger under different operating conditions
 technologies: 
-image: /assets/images/HE-lab-header.png
+image: /assets/images/he-lab-heater.png
 ---
 
 ## Description
@@ -17,7 +17,7 @@ The Experiment setup included one heat exchanger, two pumps, and four tubs (one 
 
 Here are the system diagrams of counter flow and parallel flow:
 
-![Counter Flow]({{ "assets/images/counter-flow.png" | relative_url }}){: .inline-image-l}
+![Counter Flow]({{ "assets/images/counter-flow.png" | relative_url }}){: .inline-image1-l}
 
 ![Parallel Flow]({{ "assets/images/parallel-flow.png" | relative_url }}){: .inline-image-l}
 
