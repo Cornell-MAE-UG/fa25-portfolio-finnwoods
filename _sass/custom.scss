@@ -149,13 +149,13 @@ footer {
   vertical-align: top;
 
   &-l {
-    @extend .large-inline-image1;
+    @extend .large-inline-image;
     float: left;
     margin-left: 200px;
   }
 
   &-r {
-    @extend .large-inline-image1;
+    @extend .large-inline-image;
     float: right;
     margin-right: 0;
   }
