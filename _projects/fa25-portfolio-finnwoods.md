@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Analysis of a Heat Exchanger
-description: Class project anaylsing a heat exchanger under different operatating conditions
+description: Class project analyzing a heat exchanger under different operating conditions
 technologies: 
 image: /assets/images/HE-lab-header.png
 ---
 
-## Discription
+## Description
 
 For this project I analysed the input and output temperatures of a heat exchanger under different operating conditions. The two operating conditions that I altered were the flow rate through the heat exchanger and whether the heat exchanger was running in counter flow or parallel flow. 
 
@@ -43,7 +43,7 @@ The goal of a heat exchanger is often to transfer the largest amount of energy f
 For water in our temperature range (36C - 10C) it can be modeled as an incompressible substance because its volume doesn't change much with pressure and all measurements are being taken at typical atmospheric pressure. 
 This means delta U = delta H = C delta T, where C is the specific heat of 4.18 kJ/(kg K)
 
-Pluging in the final and initial temperatures we find
+Plugging in the final and initial temperatures we find
 
 |Flow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Hot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Cold &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Average energy transfer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |---|---|---|---|
