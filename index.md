@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Finn Woods
+title: finn woods
 ---
 
 ## About Me
