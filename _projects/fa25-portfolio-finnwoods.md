@@ -13,7 +13,7 @@ For this project I analysed the input and output temperatures of a heat exchange
 The Experiment setup included one heat exchanger, two pumps, and four tubs (one with hot water warmed by an immersion heater and one insulated containing cold water). In each trial a flow rate was chosen for both of the pumps (fast or slow) and they were attached to the heat exchanger in parallel flow or in counter flow. 
 
 
-![Heat Exchanger](/assets/images/he-lab-heater.png)
+![Heat Exchanger](fa25-portfolio-FinnWoods/assets/images/he-lab-heater.png)
 
 
 Here are the system diagrams of counter flow and parallel flow:
@@ -47,7 +47,7 @@ This means delta U = delta H = C delta T, where C is the specific heat of 4.18 k
 
 Pluging in the final and initial temperatures we find
 
-|Flow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Hot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Cold &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Average energy transfer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+|Flow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Hot &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Cold &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Average energy transfer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |---|---|---|---|
 |Low Counter Flow|-68.6kJ/kg|69.8kJ/kg|69.2kJ/kg|
 |Low Parallel Flow|-36.4kJ/kg|46.0kJ/kg|41.2kJ/kg|
