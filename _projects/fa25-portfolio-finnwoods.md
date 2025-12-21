@@ -5,6 +5,14 @@ description: Class project analyzing a heat exchanger under different operating 
 technologies: 
 image: /assets/images/he-lab-heater.png
 ---
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
 
 ## Description
 
