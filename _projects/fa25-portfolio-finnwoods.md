@@ -79,12 +79,12 @@ Plugging in the final and initial temperatures we find
 
 &nbsp;
 
-If we analyse the effect of counter flow vs parallel flow we can see that the energy changes are greater for counter flow than parallel flow when accounting for the flow speed.
+If we analyze the effect of counter flow vs parallel flow we can see that the energy changes are greater for counter flow than parallel flow when accounting for the flow speed.
 For low flow speeds we see that the energy transfer rate for counter flow is (69.2kJ/kg)/(41.2kJ/kg) *100% = 168% of the parallel flow energy transfer rate
 For high flow speeds we see that the energy transfer rate for the counter flow is (55.4kJ/kg)/(49.2kJ/kg) *100% = 113% of the parallel flow energy transfer rate
 This demonstrates that counter flow is more efficient for energy transfer compared to parallel flow. 
 
-If we analyse the effect of high flow rate vs low flow rate we see that the energy changes are not consistent across different flow types.
+If we analyze the effect of high flow rate vs low flow rate we see that the energy changes are not consistent across different flow types.
 For counter flow we see that the energy transfer rate for the low flow rate is (69.2kJ/kg)/(55.4kJ/kg) *100% = 125% of the higher flow rate
 For parallel flow we see that the energy transfer rate for the low flow rate flow is (41.2kJ/kg)/(49.2kJ/kg) *100% = 84% of the higher flow rate
 This indicates that flow rate may not be very important for energy transfer in this specific heat exchanger. Theoretically energy transfer should be greater for lower flow rate because there is more time of the water to transfer heat. One reason for this discrepancy may be that the initial temperature difference between the hot and cold water was not exactly 25 degrees celsius every time. For the low flow parallel experiment the temperature difference was 23.7 degrees Celcius, but it was a little higher for the high flow parallel experiment with a difference of 26 degrees Celcius. If I were to conduct this experiment again I would make sure that the temperature differences were as consistent as possible to double check the accuracy of this data. 
