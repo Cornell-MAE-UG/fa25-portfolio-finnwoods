@@ -34,10 +34,13 @@ The Experiment setup included one heat exchanger, two pumps, and four tubs (one 
 
 Here are the system diagrams of counter flow and parallel flow:  
 
-![Counter Flow]({{ "counter-flow.png"}}){: .inline-image1-l}  
+![Counter Flow]({{ "assets/images/counter.jpg"}}){: .inline-image1-l}  
 
-![Parallel Flow]({{ "parallel-flow.png"}}){: .inline-image-r}  
-
+![Parallel Flow]({{ "parallel.jpg"}}){: .inline-image-r}  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ## Analysis
 
 The following data was collected
