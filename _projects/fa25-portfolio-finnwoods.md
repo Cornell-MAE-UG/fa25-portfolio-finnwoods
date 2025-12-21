@@ -31,6 +31,7 @@ The following data was collected
 |High|Counter|35.5C|11.0C|22.5C|24.5C|
 |High|Parallel|36.0C|10.0C|24.7C|22.3C|
 
+&nbsp;
 
 In each experiment it was difficult to make sure that the initial hot temperature and the initial cold temperature were the exact same every time, however, I tried to make sure the difference in temperature between the two sources stayed at about 25 degrees celsius. 
 
@@ -49,6 +50,8 @@ Pluging in the final and initial temperatures we find
 |Low Parallel Flow|-36.4kJ/kg|46.0kJ/kg|41.2kJ/kg|
 |High Counter Flow|-54.34kJ/kg|56.43kJ/kg|55.4kJ/kg|
 |High Parallel Flow|-47.0kJ/kg|51.4kJ/kg|49.2kJ/kg|
+
+&nbsp;
 
 If we analyse the effect of counter flow vs parallel flow we can see that the energy changes are greater for counter flow than parallel flow when accounting for the flow speed.
 For low flow speeds we see that the energy transfer rate for counter flow is (69.2kJ/kg)/(41.2kJ/kg) *100% = 168% of the parallel flow energy transfer rate
