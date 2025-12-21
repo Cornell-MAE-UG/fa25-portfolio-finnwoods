@@ -12,7 +12,7 @@ title: finn woods
 My name is {{ site.name }}, and I am a sophmore mechnical engineering student at Cornell University. I am intrested in renuable energy and and protecting our planet. I also enjoy rock climbing and adventure in the outdoors.
 
 
-There is currently a bug with the website changing the URL to be uncapitalized so you should use this link to acess my projects: <a href=https://cornell-mae-ug.github.io/fa25-portfolio-FinnWoods/projects/fa25-portfolio-finnwoods/>my projects fixed</a>
+There is currently a bug with the website changing the URL to be uncapitalized so you should use this link to acess [my projects}(https://cornell-mae-ug.github.io/fa25-portfolio-FinnWoods/projects/fa25-portfolio-finnwoods/)
 
 
 
