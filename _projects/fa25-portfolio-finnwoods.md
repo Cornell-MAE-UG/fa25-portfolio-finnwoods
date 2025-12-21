@@ -32,11 +32,15 @@ Here are the system diagrams of counter flow and parallel flow:
 
 ![Counter Flow]({{ "assets/images/counter.jpg" | relative_url}}){: .inline-image1-l}  
 
-![Parallel Flow]({{ "assets/images/parallel.jpg" | relative_url}}){: .inline-image-r}  
+![Parallel Flow]({{ "assets/images/parallel.jpg" | relative_url}}){: .inline-image1-r}  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 ## Analysis
 
 The following data was collected
