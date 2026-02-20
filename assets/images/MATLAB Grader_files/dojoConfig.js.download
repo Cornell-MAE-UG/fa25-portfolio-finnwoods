@@ -1,0 +1,16 @@
+var dojoConfig = {
+    isDebug: false,
+    async: true,
+    cacheBust: true,
+    parseOnLoad: false,
+    has: {
+        "production": 1
+    },
+    map : {
+        "*" : {
+            "mw-menu" : "mw-form",
+            "mw-mixins" : "mw-form/mixins"
+        }
+    },
+    locale: 'en-us'
+};
