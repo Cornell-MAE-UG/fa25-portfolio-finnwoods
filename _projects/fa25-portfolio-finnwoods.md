@@ -7,7 +7,7 @@ image: /assets/images/he-lab-heater.png
 ---
 &nbsp;  
 
-## Description
+## Description 
 
 For this project I analyzed the input and output temperatures of a heat exchanger under different operating conditions. The two operating conditions that I altered were the flow rate through the heat exchanger and whether the heat exchanger was running in counter flow or parallel flow. 
 
