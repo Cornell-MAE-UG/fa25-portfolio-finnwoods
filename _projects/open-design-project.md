@@ -233,15 +233,24 @@ Extension and Locking Test: The extension and locking time test consists of meas
 
 
 ### Assembly process
-1) Press fit the Dowel pin through the Top cap
-2) Use ½’’ 10-32 screws and bolts to secure the cleat into place 
-3) Press fit all of the components except the base connector and top PVC pipe together as shown by the green arrows above.
-4) Use ½’’ length ¼-20 screws and bolts to secure top cap, top t-connector, and inner tube slider 
-5) Tie a stopper knot into the lifting rope, run it through the bottom hole in the inner PVC pipe and through the opening in the top cap.
-6) Insert the inner PVC pipe into the outer PVC pipe 
-7) Press fit the base connector and the top PVC pipe as shown by the green arrows
-8) Use ½’’ length ¼-20 screws and bolts to secure the top PVC pipe and base connector into place
-9) Construct a temporary base by cutting a 60” long 2x4 into 3 equal lengths and creating an I-frame
+1) Press fit the Dowel pin through the Top cap  
+
+2) Use ½’’ 10-32 screws and bolts to secure the cleat into place   
+
+3) Press fit all of the components except the base connector and top PVC pipe together as shown by the green arrows above.  
+
+4) Use ½’’ length ¼-20 screws and bolts to secure top cap, top t-connector, and inner tube slider   
+
+5) Tie a stopper knot into the lifting rope, run it through the bottom hole in the inner PVC pipe and through the opening in the top cap.  
+
+6) Insert the inner PVC pipe into the outer PVC pipe   
+
+7) Press fit the base connector and the top PVC pipe as shown by the green arrows  
+
+8) Use ½’’ length ¼-20 screws and bolts to secure the top PVC pipe and base connector into place  
+
+9) Construct a temporary base by cutting a 60” long 2x4 into 3 equal lengths and creating an I-frame  
+
 10) Use 8 1” length wood screws to attach the base connector to the I-frame
 
 ## References:
