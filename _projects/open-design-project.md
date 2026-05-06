@@ -201,6 +201,9 @@ Both methods required very low perceived effort.
 ## Context and Problem Statement:
 Vineyards face significant harm from spotted lanternflies (SLF), because grape vines are one of the primary plants on which SLF feed. This feeding damages the vines and causes significant declines in grape yield. Pesticides are a conventional method to protect vines, but they cannot be used up to a week before harvest. Additionally, grape harvest season aligns with peak SLF activity, making it the period of greatest grapevine vulnerability throughout the year. 
 Research has shown that over-the-row insect netting can reduce SLF population on grape vines by up to 99.8%. The tested netting has a 6x1.8mm mesh and must be secured on the bottom and sides of the row. This solution is imperfect, however. The netting must be removed before harvest and reapplied after, which is a labor-intensive process that leaves the grape plants unprotected for significant periods of time. Other styles of netting, such as side netting, allow hand-harvesting without a complete removal process. However, side netting is not as effective at protecting against SLF compared to over-the-row netting. We wanted to create something that leverages the effectiveness of fine mesh netting, but decreases the extensive labour required from the netting replacement process.
+
+<img src="{{ "/assets/images/vinyard_image.png" | relative_url }}" width="40%" alt="vinyard image">
+
 ## Final Prototype and Application:
 Our solution is a system of telescoping trellis line posts. These posts are spaced along the trellis, sitting below the insect netting. When harvest time comes, users can raise each post using the lifting rope. The netting is lifted by the extending post, allowing the grapes to be accessed beneath. After harvesting, the posts are collapsed, lowering the netting back over the vines. 
 ## Conclusion and Recommendation:
@@ -212,7 +215,8 @@ For the lifting force test, the goal was less than one degree of deflection, and
 We then conducted a lifting force test. Industrial labor standards suggest that the average person can lift 40kg on a 5/16 in rope (the diameter we are using) but for repeated movements it is suggested that someone not pull more than ⅓ of their maximum pull strength. Based on these recommendations, our goal was a maximum pull force of 130N (13.3kg). The hold force required was 4.9N (0.5kg), the minimum lifting force required was 91.1N (9.3kg), and the max force average during a lift was 124.4N (12.7kg). This means our design will not cause undue fatigue on workers operating our extendable poles.
 Our mechanism is designed to save manual labor and time so it is imperative that it can be extended and locked quickly. Therefore, for our extension and locking time test, we set a goal of 5 seconds for the total time, and measured an average of 1.8s for extension and 2.1s for locking (3.9s total). With the aid of devices, a zip tie can be attached or removed in about 3 seconds. If zipties are placed every foot, and poles are placed every ten feet, then using the extendable pole system is 14.6 times faster than traditional methods. Our testing doesn't account for the additional time to take the net off the vines and roll it up, so time savings could be even greater.
 ## Prototype and Testing:
-
+<img src="{{ "/assets/images/BOM.png" | relative_url }}" width="40%" alt="Pole extended">
+<img src="{{ "/assets/images/parts.png" | relative_url }}" width="40%" alt="Pole extended">
 
 ## Testing Methods (Results listed above):
 Extension Deflection Test: The tube deflection test consists of fully extending and tieing off the inner tube then measuring the angle of the inner tube from vertical to determine deflection from ideal orientation. This test was created to evaluate the tolerancing between the inner tube, outer tube, and their sliders. Lower deflection indicates more accurate tolerancing and less shear forces on the 3D printed sliders.
