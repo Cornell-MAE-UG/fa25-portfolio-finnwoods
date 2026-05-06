@@ -11,6 +11,7 @@ image: /assets/images/vine_v2.png
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
 - [Client Report](#client-report)
+
 ---
 
 # Client Pitch
