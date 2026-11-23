@@ -3,7 +3,7 @@ layout: project
 title: Fluid mechanical Disection
 description: Disection of a blank
 technologies: 
-image: /assets/images/vine_v2.png
+image: /assets/images/fluid_disection.jpg
 ---
 
 
